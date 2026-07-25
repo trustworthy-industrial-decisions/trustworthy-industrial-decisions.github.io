@@ -107,18 +107,18 @@ You cannot engineer what you have not decomposed. Three dimensions make a decisi
 <line x1="245" y1="61" x2="261" y2="61" stroke="var(--faint,#8b93a1)" stroke-width="1.5" marker-end="url(#dims-arrow)"/>
 <line x1="495" y1="61" x2="511" y2="61" stroke="var(--faint,#8b93a1)" stroke-width="1.5" marker-end="url(#dims-arrow)"/>
 </svg>
-<figcaption style="font-size:0.82rem;color:var(--muted,#5b6472);text-align:center;margin-top:0.6rem;">Knowledge, reasoning, and decision — each one a point where an ungrounded AI can fail in a way the others can't catch.</figcaption>
+<figcaption style="font-size:0.82rem;color:var(--muted,#5b6472);text-align:center;margin-top:0.6rem;">Engineering Trustworthy Decisions</figcaption>
 </figure>
 
-1. **Engineering Knowledge** — *what the AI knows.* 
+**A. Engineering Knowledge** — *what the AI knows.* 
 
 Neglected, you get fluent answers unanchored to the standards, datasheets, and failure history that govern the asset — expert-sounding, knowing nothing that matters. Mining engineering taught the regulations alongside the engineering itself: knowing how to tunnel deep isn't enough; you must know what's allowed. Those rules aren't legal overhead — they encode decades of experience about which risks a mine may take, and which it never may.
 
-2. **Grounded Reasoning** — *how the AI reasons.* 
+**B. Grounded Reasoning** — *how the AI reasons.* 
 
 Skip this one and correlation gets dressed up as causation — recommending actions that violate physics, standards, or failure mechanisms any SME could recite from memory. We don't accept that reasoning from humans either: nobody runs a refinery on gut feel, not with lives and billions in equipment on the line. Standards bodies publish procedures for the same reason medical councils prescribe protocols. AI needs that same discipline — grounded data, proven reasoning paths, the right answer repeatably, not just once.
 
-3. **Trustworthy Decisions** — *why engineers should trust the decision.* 
+**C. Trustworthy Decisions** — *why engineers should trust the decision.* 
 
 Neglected, you get recommendations nobody can sign: no auditable path from evidence to action, no answer when the incident review asks *why*. 
 Most governance stops at canonical data and model lifecycles, never asking whether the recommendation itself is correct, predictable, repeatable. Deterministic expert systems gave that assurance but couldn't scale; AI scales the recommendation surface enormously, in settings where safety and regulation raise the stakes.
@@ -137,12 +137,13 @@ No. Models matter enormously — they simply do not occupy the level of abstract
 
 Why this distinction is important: when an AI initiative underperforms, the instinctive response is to swap the model — a new architecture, a new vendor, a different benchmark. Ask instead what is actually constraining the result. It is not always the model. It may be a different constraint somewhere else. An industrial AI program should be evaluated by its impact on that constraint, not by a benchmark score on the model behind it.
 
-## An invitation
+## Building the Framework
 
-This isn't a solitary conviction. DNV, the classification society that certifies ships, platforms, and pipelines, is asking the same starting question. So is industry itself: Vimal Kapur, Honeywell's chairman and CEO, said almost the same thing in a 2026 interview — industrial AI isn't fundamentally a model problem, it's a knowledge problem. Confirmation, not competition.
+This isn't a solitary conviction. DNV, the classification society that certifies ships, platforms, and pipelines, is asking the same starting question. So is industry itself: Vimal Kapur, Honeywell's chairman and CEO, said almost the same thing in a 2026 interview — industrial AI isn't fundamentally a model problem, it's a knowledge problem. 
+
+Trust is not a feature of the next model. It is an engineering discipline — and it is time we practiced it that way.
 
 If you build, operate, or sign for industrial AI systems, this series is for you — and it will be better with your disagreement than with your applause.
 
 [Subscribe via RSS]({{ "/feed.xml" | relative_url }}) to follow along, or start with the [canonical terminology]({{ "/terms/" | relative_url }}) that everything else builds on.
 
-Trust is not a feature of the next model. It is an engineering discipline — and it is time we practiced it that way.
