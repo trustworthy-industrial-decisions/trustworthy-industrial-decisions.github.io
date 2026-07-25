@@ -130,7 +130,7 @@ Signing is not a formality. It is trust, compressed into accountability. A signa
 
 ## Half the Answer
 
-Decision governance is only one half of what makes a recommendation trustworthy. [The other half]({{ "/articles/2026/07/14/correlation-runs-the-dashboard/" | relative_url }}) is whether the reasoning underneath it was grounded at all — a different failure mode, covered next. After that, [the piece that follows]({{ "/articles/2026/07/18/engineering-trustworthy-industrial-decisions/" | relative_url }}) draws both together: these are two of the dimensions a whole research program is organized around, not two unrelated complaints.
+Decision governance is only one half of what makes a recommendation trustworthy. [The other half]({{ "/articles/2026/07/14/correlation-runs-the-dashboard/" | relative_url }}) is whether the reasoning underneath it was grounded at all — a different failure mode, covered next. After that, [the piece that follows]({{ "/articles/2026/07/25/engineering-trustworthy-industrial-decisions/" | relative_url }}) draws both together: these are two of the dimensions a whole research program is organized around, not two unrelated complaints.
 
 The anatomy of a decision record, the four verdicts a governed layer can render, and the case that governance *expands* autonomy rather than restricting it — all of that is real, and it deserves a volume of its own when its turn comes.
 
