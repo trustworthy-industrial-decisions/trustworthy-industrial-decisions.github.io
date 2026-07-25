@@ -6,19 +6,22 @@ permalink: /about/
 
 Industrial AI is entering an era of unprecedented capability. Large language models, foundation models, industrial agents, digital twins, and optimization are all advancing quickly.
 
-Capability alone is not enough. Industrial AI must enable decisions, and Decisions must earn trust — and trust must be engineered.
+Capability alone is not enough. Industrial AI must enable decisions, and decisions must earn trust — and trust must be engineered.
 
-This research program advances the engineering discipline of Trustworthy Industrial Decisions in the Age of AI. It's organized around seven areas that are expected to stay relevant even as the underlying technology changes:
+This research program is **Engineering Trustworthy Industrial Decisions in the Age of AI** — organized around seven areas that are expected to stay relevant even as the underlying technology changes. Three of them make a decision itself trustworthy:
 
 1. **Engineering Knowledge** — what the AI knows
 2. **Grounded Reasoning** — how the AI reasons
 3. **Trustworthy Decisions** — why engineers should trust the decision
+
+The other four make a trustworthy decision operational and scalable — a real problem, and a different one:
+
 4. **Industrial Agents** — how work gets executed
 5. **Industrial AI Platforms** — where intelligence lives
 6. **Operational Deployment** — how intelligence is deployed safely
 7. **Industrial AI Products** — how trust creates lasting business value
 
-[Volume I]({{ "/volume-i/" | relative_url }}) makes the case for the whole framework, with close looks at three of these seven — Engineering Knowledge, Grounded Reasoning, and Trustworthy Decisions. Which dimension earns a dedicated volume of its own next isn't a committed calendar — that's a genuinely open question, and the direction this initiative takes will depend on where the work is furthest along. If you would like to contribute, please drop a note at skprasad@gmail.com
+[Volume I]({{ "/volume-i/" | relative_url }}) makes the case for the whole framework, with close looks at the first three — the ones that make a decision itself trustworthy. The other four, and what it takes to operationalize and scale a trustworthy decision, are a separate arc for a future volume. Which one comes next isn't a committed calendar — that's a genuinely open question, and the direction this initiative takes will depend on where the work is furthest along. If you would like to contribute, please drop a note at skprasad@gmail.com
 
 **Guiding principle:** the goal isn't to chase every technology trend, but to establish engineering principles for trustworthy industrial decisions — principles durable enough to outlast any one wave of tooling. Success looks like practitioners citing and building on these ideas because they're useful, not because they're ours.
 
