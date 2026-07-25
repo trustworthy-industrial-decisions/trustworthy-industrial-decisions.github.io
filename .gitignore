@@ -10,3 +10,8 @@ vendor
 # and competitive-intelligence research notes.
 /social/
 /research/
+
+# Client/proposal source material (RFPs, SOWs, briefing decks) -- confidential,
+# never for this public repo. Read for pattern/theme extraction only; never
+# committed, never quoted verbatim, never client-identified in published content.
+/references/
