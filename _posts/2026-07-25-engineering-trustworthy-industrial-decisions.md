@@ -2,7 +2,7 @@
 layout: post
 title: "Engineering Trustworthy Industrial Decisions in the Age of AI"
 description: "Capability is advancing. Trust is not. Defining the discipline — and the seven dimensions — of engineering trust into industrial AI."
-date: 2026-07-18 08:00:00 +0530
+date: 2026-07-25 08:00:00 +0530
 author: "Dr. Sanjay K Prasad"
 tags: [foundations]
 excerpt_separator: <!--more-->
