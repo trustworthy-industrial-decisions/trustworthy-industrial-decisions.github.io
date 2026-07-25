@@ -20,7 +20,7 @@ This page defines the authoritative vocabulary used across this research program
 
 ### Foundational concepts
 
-**Engineering Trustworthy Industrial AI** — *Foundational*
+**Engineering Trustworthy Industrial Decisions** — *Foundational*
 An engineering discipline focused on designing Industrial AI systems that earn trust through engineering knowledge, grounded reasoning, decision governance, human accountability, and operational rigor.
 {: #engineering-trustworthy-industrial-ai}
 

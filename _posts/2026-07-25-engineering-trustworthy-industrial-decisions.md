@@ -81,7 +81,7 @@ The sharpest one-line test I know for whether an AI-assisted decision is operati
 You cannot engineer what you have not decomposed. Three dimensions make a decision itself trustworthy: what the AI must *know*, how it must *reason*, how it *decides*. 
 
 <figure style="margin:2.2rem 0;">
-<svg viewBox="0 0 760 210" role="img" aria-labelledby="dims-title" style="width:100%;height:auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+<svg viewBox="0 0 760 104" role="img" aria-labelledby="dims-title" style="width:100%;height:auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
 <title id="dims-title">The anatomy of a trustworthy industrial decision: Engineering Knowledge (what the AI knows), Grounded Reasoning (how the AI reasons), and Trustworthy Decisions (why the decision is trusted).</title>
 <defs>
 <marker id="dims-arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="var(--faint,#8b93a1)"/></marker>
