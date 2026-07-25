@@ -18,7 +18,7 @@ This research program advances the engineering discipline of Trustworthy Industr
 6. **Operational Deployment** — how intelligence is deployed safely
 7. **Industrial AI Products** — how trust creates lasting business value
 
-[Volume I]({{ "/volume-i/" | relative_url }}) makes the case for the whole framework, with close looks at two of these seven — Grounded Reasoning and Trustworthy Decisions. Which dimension earns a dedicated volume of its own next isn't a committed calendar — that's a genuinely open question, and the direction this initiative takes will depend on where the work is furthest along. If you would like to contribute, please drop a note at skprasad@gmail.com
+[Volume I]({{ "/volume-i/" | relative_url }}) makes the case for the whole framework, with close looks at three of these seven — Engineering Knowledge, Grounded Reasoning, and Trustworthy Decisions. Which dimension earns a dedicated volume of its own next isn't a committed calendar — that's a genuinely open question, and the direction this initiative takes will depend on where the work is furthest along. If you would like to contribute, please drop a note at skprasad@gmail.com
 
 **Guiding principle:** the goal isn't to chase every technology trend, but to establish engineering principles for trustworthy industrial decisions — principles durable enough to outlast any one wave of tooling. Success looks like practitioners citing and building on these ideas because they're useful, not because they're ours.
 
